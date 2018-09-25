@@ -1,7 +1,7 @@
 # devops.test
 
 ## Description
-Build a simple REST API. This API code needs to run in a Docker container.
+Build a simple REST API. This API code needs to run in a Docker container. You can use as many containers as you need.
 
 ## API Specification
 GET /user/{id} - Retrieves a specific user
