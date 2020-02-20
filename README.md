@@ -45,3 +45,5 @@ We expect you provide a zip, with what you did.
  - Logging (what would you log, where you would store it etc)
  - Documentation
  - Further instructions to move it to production
+
+This test has been designed to take you between 1 and 2 hours
